@@ -10,5 +10,5 @@ body{
 `
 export const Colors = {
     White : '#F2EBC4',
-    Brown : '#200F0F'
+    Brown : '#200F0H'
 }
